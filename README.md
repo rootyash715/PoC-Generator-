@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TraceCam — Professional Screen Recording & Smart Camera Platform
 
 TraceCam is a desktop screen recording application with intelligent camera tracking, automated cursor-following zoom, smooth camera movements, multi-track timeline editing, and local FFmpeg rendering.
@@ -57,3 +58,7 @@ npm run build
 ## Platform Support
 - Primary: Windows 10/11
 - Abstractions ready for macOS & Linux support.
+=======
+# PoC-Generator-
+this is a tool which help you to make a professional  PoC
+>>>>>>> 4475c053dfadf2ab6931b1f576ccc7c740daa81d
